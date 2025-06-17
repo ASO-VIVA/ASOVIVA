@@ -1,0 +1,13 @@
+main.py
+irokata.py
+moziokuri.py
+pokemon.py
+pokemon2.py
+issyo.py
+eventodai.py
+wordsniper.py
+hayaosi.py
+sakiyomiseikai.py
+answerflip.py
+worldend.py
+orikyarazukan.py
