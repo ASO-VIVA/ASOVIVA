@@ -21,6 +21,8 @@ extensions = (
     'answerflip',           # 集計した回答を各自で発表
     'worldend',             # WORLDEND
     'orikyarazukan',        # オリキャラ妄想図鑑
+    'melgame2',             # みんなでメルゲーム
+    
 )
 
 class MyBot(commands.Bot):
